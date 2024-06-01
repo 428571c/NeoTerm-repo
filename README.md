@@ -1,20 +1,19 @@
 ## NeoTerm apt repo
+Deprecated. Now it is only temporarily used for early project testing.
 ### Repo link
 ```
-https://raw.githubusercontent.com/NeoTerm/NeoTerm-repo/main/ stable main
+https://raw.githubusercontent.com/428571c/NeoTerm-repo/main/ stable main
 ```
 
 ### Supported architectures
 
 ARCH    :|: SUPPORTED
 --------:|:-------------
-ARM     :|: NO
 AARCH64 :|: YES
-I386    :|: NO
 X86-X64 :|: NO
 
 ### Mini guide to add/remove/update packages
-#### Deps
+#### Deps (On Debian)
 ```
 apt install reprepro
 ```
